@@ -1,0 +1,16 @@
+# Core numerical and data-processing dependencies
+numpy>=1.24
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.7
+
+# Progress bars
+tqdm>=4.65
+
+# Notebook environment
+jupyterlab>=4.0
+ipykernel>=6.25
+
+# Required by pandas Styler for the formatted results table
+Jinja2>=3.1
